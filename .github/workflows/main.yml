@@ -10,7 +10,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: notquitelikeme/en-garde-appliances@master
+      - uses: notquitelikeme/notquitelikeme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.waka_66d9f734-94aa-4afe-aae4-b4f7dfa3aac5 }}
           GH_TOKEN: ${{ secrets.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 }}
