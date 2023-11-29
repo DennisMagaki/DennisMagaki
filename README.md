@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+![137330345](https://github.com/notquitelikeme/notquitelikeme/assets/137330345/50108fa4-ded7-4ae5-9696-ec1c39713c8f)
