@@ -32,3 +32,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dennismagaki&theme=dark" alt="dennismagaki" /></p>
 
 ![](https://github-contributor-stats.vercel.app/api?username=dennismagaki&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+![Repos I contributed to](https://github-contrib-stats.vercel.app/DennisMagaki/contributed.svg)
