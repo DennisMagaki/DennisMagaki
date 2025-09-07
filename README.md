@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dennismagaki&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="dennismagaki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dennismagaki&theme=dark" alt="dennismagaki" /></p>
+
+![](https://github-contributor-stats.vercel.app/api?username=dennismagaki&limit=5&theme=dark&combine_all_yearly_contributions=true)
