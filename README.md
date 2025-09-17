@@ -11,3 +11,6 @@
 [![Dennis Magaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennismagaki&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennismagaki&layout=pie&langs_count=7&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Repos I contributed to](https://github-contrib-stats.vercel.app/DennisMagaki/contributed.svg)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
