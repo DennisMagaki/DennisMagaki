@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dennis Magaki</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dennismagaki&label=Profile%20views&color=ff0000&style=flat" alt="dennismagaki" /> </p> https://wakatime.com/badge/user/018c1a0b-e8a1-4232-a8d9-b5ef1db0290b.svg
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dennismagaki&label=Profile%20views&color=ff0000&style=flat" alt="dennismagaki" /> <img src="https://wakatime.com/badge/user/018c1a0b-e8a1-4232-a8d9-b5ef1db0290b.svg" alt="dennismagaki" /> </p> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dennismagaki" alt="dennismagaki" /></a> </p>
 
