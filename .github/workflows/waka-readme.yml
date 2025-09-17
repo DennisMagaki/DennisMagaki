@@ -10,7 +10,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
+    # Runs at 12am UTC (3:00 AM EAT)
     - cron: '0 0 * * *'
 
 jobs:
@@ -20,5 +20,27 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          ### meta
+          API_BASE_URL: https://wakatime.com/api # optional
+          REPOSITORY: YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME # optional
+          ### content
+          SHOW_TITLE: true # optional
+          SECTION_NAME: waka # optional
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
+          CODE_LANG: rust # optional
+          TIME_RANGE: last_30_days # optional
+          LANG_COUNT: 7 # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          STOP_AT_OTHER: true # optional
+          IGNORED_LANGUAGES: YAML JSON TOML # optional
+          # commit
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          TARGET_BRANCH: main
+          TARGET_PATH: README.md
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.com
+          AUTHOR_NAME: Dennis Magaki
+          AUTHOR_EMAIL: conquistador8240@gmail.com
         
