@@ -12,6 +12,7 @@
 
 ![Repos I contributed to](https://github-contrib-stats.vercel.app/DennisMagaki/contributed.svg)
 
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
 ```txt
