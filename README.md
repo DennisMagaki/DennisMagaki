@@ -13,4 +13,9 @@
 ![Repos I contributed to](https://github-contrib-stats.vercel.app/DennisMagaki/contributed.svg)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
