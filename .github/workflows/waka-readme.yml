@@ -32,7 +32,7 @@ jobs:
           LANG_COUNT: 7 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
-          STOP_AT_OTHER: true # optional
+          STOP_AT_OTHER: false # optional
           IGNORED_LANGUAGES: YAML TOML # optional
           # commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
