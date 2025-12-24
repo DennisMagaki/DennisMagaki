@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dennis Magaki</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dennismagaki&label=Profile%20views&color=ff0000&style=flat" alt="dennismagaki" /> <img src="https://wakatime.com/badge/user/018c1a0b-e8a1-4232-a8d9-b5ef1db0290b.svg" alt="dennismagaki" /> <img src="https://wakapi.dev/api/badge/DennisMagaki/DennisMagaki/interval:30_days?label=last%2030d" alt="dennismagaki" /> <img src="https://wakapi.dev/api/badge/DennisMagaki/interval:today?label=today" alt="dennismagaki" /> </p> 
 
